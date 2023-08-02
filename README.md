@@ -1,6 +1,8 @@
-# Bitcoin and Cryptocurrency Analysis
+# Bitcoin and Cryptocurrency Market Analysis
 
-This project contains data analysis on Bitcoin and other cryptocurrencies. The analysis includes various aspects such as market capitalization, price changes, and volatility of cryptocurrencies.
+This project analyzes the market capitalization and volatility of cryptocurrencies using data from CoinMarketCap. It focuses on the top 10 cryptocurrencies as of 6th December 2017. The analysis includes filtering out cryptocurrencies without a market capitalization, visualizing the market capitalization distribution, and examining the percentage change in market capitalization over 24 hours and 7 days.
+
+The project utilizes Python and pandas for data manipulation, matplotlib for data visualization, and provides insights into the market behavior of cryptocurrencies during the specified period. Please note that cryptocurrency markets are highly volatile and the information provided here is for analysis purposes only. It is not intended as investment advice.
 
 ## Installation and Usage
 
